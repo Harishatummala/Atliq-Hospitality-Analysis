@@ -1,8 +1,8 @@
-Atliq Hospitality Data Analysis
+This project was done as part of my internship in Unified Mentors Private LTD
 
-This is the Project done during my Internship.
+Atliq Hospitality Data Analysis
  
- Let me provide you with some details about the Atliq Hospitality project.
+Let me provide you with some details about the Atliq Hospitality project.
 
 Atliq Grands is a five-star hotel chain operating in four cities: Mumbai, Delhi, Bangalore, and Hyderabad. They have a total of seven properties, each categorized under different names:
 
